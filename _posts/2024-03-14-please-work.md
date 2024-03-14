@@ -1,3 +1,0 @@
-# Please Work
-
-Hello World!
