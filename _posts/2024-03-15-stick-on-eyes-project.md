@@ -13,6 +13,6 @@ Just as I was about to take heed of my note I thought no, I'm going to buy somet
 
 ![Peel and Stick on Eyes](/images/stick-on-eyes.jpg)
 
-The results of my hard but rewarding work 😀
+The results of my hard but rewarding work 👀
 
 ![Shell With Stick on Eyes](/images/shell-with-stick-on-eyes.jpg)
