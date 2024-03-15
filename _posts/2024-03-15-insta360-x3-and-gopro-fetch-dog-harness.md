@@ -14,7 +14,8 @@ Here's a video I made using the Insta360 and the dog harness
 [![Insta360 X3 with Dog Harness](https://img.youtube.com/vi/FuV-r7tDvQQ/0.jpg)](https://www.youtube.com/watch?v=FuV-r7tDvQQ)
 
 
-## Links
+**Links**
+
 [GoPro Fetch Dog Harness](https://gopro.com/en/gb/shop/mounts-accessories/fetch-dog-harness/ADOGM-001.html)
 
 [Insta360 X3](https://www.insta360.com/product/insta360-x3)
