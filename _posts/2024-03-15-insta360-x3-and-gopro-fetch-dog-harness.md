@@ -7,7 +7,7 @@ categories: [pet, photography, insta360]
 
 I recently got myself an Insta360 X3 camera and wanted a way to safely mount the camera on my dog, I found the perfect solution using the GoPro Fetch Dog Harness and the Insta360 Quick Release mount.
 
-The GoPro harness has the standard 3 pin mount on the top and the quick release mount has 2 fold out pins that fit into the 3 pins, the pins on the mount also fold up so it can be attached to a tripod with a standard 1/4 inch thread.
+The GoPro harness has the standard 3 pin mount on the top and the quick release mount has 2 fold out pins that fit into these 3 pins, the pins on the mount also fold up so it can be attached to a tripod with a standard 1/4 inch thread.
 
 Here's a video I made using the Insta360 and the dog harness
 
