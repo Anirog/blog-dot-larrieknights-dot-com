@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "An Alternative to the Ugmonk Analog Productivity Card Holder"
+title: An Alternative to the Ugmonk Analog Productivity Card Holder
 date: 2024-03-15
-categories: [productivity] // Dynamically generated categories from Drafts tags
+categories: [productivity]
 ---
 
 
