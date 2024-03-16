@@ -13,6 +13,18 @@ Just as I was about to take heed of my note I thought no, I'm going to buy somet
 
 ![Peel and Stick on Eyes](/images/stick-on-eyes.jpg)
 
-The results of my hard but rewarding work 👀
+## The results of my hard but rewarding work 👀
 
 ![Shell With Stick on Eyes](/images/shell-with-stick-on-eyes.jpg)
+
+![Box With Stick on Eyes](/images/stick-on-eyes-box.jpg)
+
+![Stapler With Stick on Eyes](/images/stick-on-eyes-stapler.jpg)
+
+![Light Switch With Stick on Eyes](/images/stick-on-eyes-light-switch.jpg)
+
+![Note Pad With Stick on Eyes](/images/stick-on-eyes-notepad.jpg)
+
+![Post With Stick on Eyes](/images/stick-on-eyes-post-1.jpg)
+
+![Post With Stick on Eyes](/images/stick-on-eyes-post-2.jpg)
