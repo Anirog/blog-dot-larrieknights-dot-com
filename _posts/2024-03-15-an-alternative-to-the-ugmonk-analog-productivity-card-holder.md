@@ -2,7 +2,7 @@
 layout: post
 title: An Alternative to the Ugmonk Analog Productivity Card Holder
 date: 2024-03-15
-categories: [Productivity]
+categories: [productivity]
 ---
 
 

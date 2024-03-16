@@ -2,7 +2,7 @@
 layout: post
 title: Insta360 X3 and GoPro Fetch Dog Harness
 date: 2024-03-15
-categories: [Insta360]
+categories: [insta360]
 ---
 
 I recently got myself an Insta360 X3 camera and wanted a way to safely mount the camera on my dog, I found the perfect solution using the GoPro Fetch Dog Harness and the Insta360 Quick Release mount.
