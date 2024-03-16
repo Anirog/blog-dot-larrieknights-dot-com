@@ -2,7 +2,7 @@
 layout: post
 title: Stick on Eyes Project
 date: 2024-03-15
-categories: [photography]
+categories: [Photography]
 ---
 
 It all started late one night shopping on Amazon in January 2020, as I was browsing the virtual aisles looking at expensive cameras and headphones I didn't need, I looked up and noticed the note I have permanently on my desk, that reads "Stop Buying Stuff"
