@@ -7,7 +7,7 @@ categories: [quote]
 
 I was watching Gogglebox today, I like the brother and sister Pete and Sophie Sandiford, on today's episode they were watching 'Who Wants to Be a Millionaire?' and Pete said a classic line.   
 
-> Life isn't always about money, but have you ever seen anybody sad on a jet ski? so money can buy you happiness.
+> Life isn't always about money, but have you ever seen anybody sad on a jet ski? So money can buy you happiness.
 > 
 >   — Pete Sandiford
 
