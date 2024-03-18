@@ -6,3 +6,7 @@ header_pages:
   - categories.html
   - contact.html
 twitter_username: 512kilobytes
+description: Larrie is a web developer with a passion for making beautiful interfaces with CSS and Javascript. When I'm not coding, I'm designing in Sketch or making music.
+avatar: https://raw.githubusercontent.com/Anirog/github-upload/master/img/larrie-knights.jpg
+url: https://blog.larrieknights.com
+baseurl: "/github-pages"
