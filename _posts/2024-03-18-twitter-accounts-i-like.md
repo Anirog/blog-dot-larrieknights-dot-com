@@ -7,7 +7,7 @@ categories: [twitter]
 
 [@johnshuttlewrth](https://twitter.com/johnshuttlewrth)
 
-[@AccidentalP](twitter.com/AccidentalP)
+[@AccidentalP](https://twitter.com/AccidentalP)
 
 [@RogerQuimbly](https://twitter.com/RogerQuimbly)
 
