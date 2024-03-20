@@ -11,21 +11,12 @@ I made some custom coloured folder icons in [Sketch](https://www.sketch.com) my 
 
 **Setting custom icons for your folders in macOS is easy.**
 
-1. Download any of the .png files below to a folder on your Mac.
-2. Select the .png file and press `Command + C` to copy it.
-3. In Finder select the folder you want to customise and press `Command + I` to open the Info window.
-4. Click the little icon in the top left corner, and hit `Command + V` to paste it.
+1. Download the [folder-icons.zip](https://drive.google.com/file/d/1DjYow8ha1fgSczL-CujC5dj38s4IaIMV/view?usp=share_link) file.
+2. Unzip the file.
+3. Select the .png you want and press `Command + C` to copy it.
+4. In Finder select the folder you want to customise and press `Command + I` to open the Info window.
+5. Click the little icon in the top left corner, and press `Command + V` to paste it.
 
 That's it! 🎉
 
-## Download The Icons
-
-[![Yellow Folder Icon](/images/yellow.png 'Yellow Folder Icon')](https://blog.larrieknights.com/images/yellow.png?raw=true)
-
-[![Green Folder Icon](/images/green.png 'Green Folder Icon')](https://blog.larrieknights.com/images/green.png?raw=true)
-
-[![Red Folder Icon](/images/red.png 'Red Folder Icon')](https://blog.larrieknights.com/images/red.png?raw=true)
-
-[![Purple Folder Icon](/images/purple.png 'Purple Folder Icon')](https://blog.larrieknights.com/images/purple.png?raw=true)
-
-[![Brown Folder Icon](/images/brown.png 'Brown Folder Icon')](https://blog.larrieknights.com/images/purple.png?raw=true)
+To go back to the original icon select the folder you customised, press `Command + I` to open the Info window, click the little icon in the top left corner, and press delete.
