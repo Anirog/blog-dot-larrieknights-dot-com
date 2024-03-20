@@ -22,10 +22,10 @@ That's it! 🎉
 
 [![Yellow Folder Icon](/images/yellow.png 'Yellow Folder Icon')](https://blog.larrieknights.com/images/yellow.png?raw=true)
 
-[![Green Folder Icon](/images/name-of-image.jpg 'Green Folder Icon')](https://blog.larrieknights.com/images/green.png?raw=true)
+[![Green Folder Icon](/images/green.png 'Green Folder Icon')](https://blog.larrieknights.com/images/green.png?raw=true)
 
-[![Red Folder Icon](/images/name-of-image.jpg 'Red Folder Icon')](https://blog.larrieknights.com/images/red.png?raw=true)
+[![Red Folder Icon](/images/red.png 'Red Folder Icon')](https://blog.larrieknights.com/images/red.png?raw=true)
 
-[![Purple Folder Icon](/images/name-of-image.jpg 'Purple Folder Icon')](https://blog.larrieknights.com/images/purple.png?raw=true)
+[![Purple Folder Icon](/images/purple.png 'Purple Folder Icon')](https://blog.larrieknights.com/images/purple.png?raw=true)
 
-[![Brown Folder Icon](/images/name-of-image.jpg 'Brown Folder Icon)](https://blog.larrieknights.com/images/brown.png?raw=true)
+[![Brown Folder Icon](/images/brown.png 'Brown Folder Icon')](https://blog.larrieknights.com/images/purple.png?raw=true)
