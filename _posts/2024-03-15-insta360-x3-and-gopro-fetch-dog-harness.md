@@ -11,7 +11,7 @@ The GoPro harness has the standard 3 pin mount on the top and the quick release 
 
 The magic of the Insta360 stitching process makes the camera disappear when exported, so in the image below my dog is wearing the camera but you can't see it 😀
 
-![alt text](/images/insta360-x3-dog-harness.jpg)
+![Dog wearing a dog harness with an insta360 X3](/images/insta360-x3-dog-harness.jpg)
 
 **Links**
 
