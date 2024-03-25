@@ -5,8 +5,6 @@ date: 2024-03-25
 categories: [HTML]
 ---
 
-# How to Add Emojis on a Website
-
 Although not great practice for a company website, I like using emojis for my personal project websites, adding emojis to a website is easy.
 
 ## Instructions
