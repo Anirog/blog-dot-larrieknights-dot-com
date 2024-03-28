@@ -7,3 +7,8 @@ header_pages:
   - contact.html
 twitter_username: 512kilobytes
 url: https://blog.larrieknights.com
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/opengraph.png
