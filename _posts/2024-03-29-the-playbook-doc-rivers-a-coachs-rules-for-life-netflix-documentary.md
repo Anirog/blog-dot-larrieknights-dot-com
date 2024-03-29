@@ -2,7 +2,7 @@
 layout: post
 title: The Playbook - Doc Rivers A Coach's Rules for Life Netflix Documentary
 date: 2024-03-29
-categories: [tv]
+categories: [TV]
 ---
 
 ![The Playbook Netflix Documentary](/images/the-playbook.webp)
