@@ -17,7 +17,7 @@ categories: [TV]
 
 The dictionary definition of **Ubuntu** is:
 
-> A quality that includes the essential human virtues; compassion and humanity.
+*A quality that includes the essential human virtues; compassion and humanity.*
 
 The documentary had more to say about Ubuntu and what it means:
 
@@ -25,7 +25,7 @@ The documentary had more to say about Ubuntu and what it means:
 >
 > — Desmond Tutu
 
----  
+And Doc Rivers himself said: 
 
 > A person is a person through other people, I can't be all I can be unless you can be all you can be. I can never be threatened by you because you're good, because the better you are the better I am.
 
