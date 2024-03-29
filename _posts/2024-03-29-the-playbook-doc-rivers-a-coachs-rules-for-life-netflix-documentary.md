@@ -25,8 +25,8 @@ The documentary had more to say about Ubuntu and what it means:
 >
 > — Desmond Tutu
 
-> A person is a person through other people, I can't be all I can be unless you can be all you can be.
+---
 
-> I can never be threatened by you because you're good, because the better you are the better I am.
+> A person is a person through other people, I can't be all I can be unless you can be all you can be. I can never be threatened by you because you're good, because the better you are the better I am.
 
 [Check out “The Playbook” on Netflix](https://www.netflix.com/us/title/81025735?s=i&trkid=260054134&vlang=en&clip=81274111)
