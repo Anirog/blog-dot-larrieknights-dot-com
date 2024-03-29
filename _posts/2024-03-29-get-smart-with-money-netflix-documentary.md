@@ -11,19 +11,20 @@ categories: [finance]
 2. Do I **love** it?
 3. Do I **like** it?
 4. Do I **want** it? 
+
 ## Need
 I must have this thing to maintain the health and safety of myself and my family.
 
 Some examples of needs?
-	1. Mortgage
-	2. Groceries
+1. Mortgage
+2. Groceries
 
 ## Love
 Loves are this. I want you to imagine if you had one of the wealthiest people in the world's money, what would you do or do more of?
 
 Some examples of loves?
-	1. Go on holiday
-	2. Making music
+1. Go on holiday
+2. Making music
 
 Often times we skip over love because it can be a little pricey. So we skip right to likes and wants. 
 
