@@ -13,6 +13,7 @@ categories: [finance]
 4. Do I **want** it?
 
 ## Need
+
 I must have this thing to maintain the health and safety of myself and my family.
 
 Some examples of needs?
@@ -20,6 +21,7 @@ Some examples of needs?
 2. Groceries
 
 ## Love
+
 Loves are this. I want you to imagine if you had one of the wealthiest people in the world's money, what would you do or do more of?
 
 Some examples of loves?
@@ -29,11 +31,13 @@ Some examples of loves?
 Often times we skip over love because it can be a little pricey. So we skip right to likes and wants. 
 
 ## Like
+
 A like is something that will bring you joy for about less than six months.
 
 > I feel like most of the things I buy from Amazon fall into this category
 
 ## Want
+
 Wants are just, there's no joy there, just temporary satisfaction.
 
 I want you to think of your needs and loves like a quadrant, so needs and loves are on this side and then likes and wants on this side so when you are focused on your needs and your loves you're really living in more of your life and when you're focused on your or likes and your wants, you're really living less of a life.
