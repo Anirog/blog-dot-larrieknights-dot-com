@@ -46,7 +46,7 @@ I want you to think of your needs and loves like a quadrant, so needs and loves 
 
 ![Likes and Wants](/images/likes-wants.png)
 
-## Living in more of your life
+## Living more of your life
 
 ![](/images/needs-loves.png)
 
