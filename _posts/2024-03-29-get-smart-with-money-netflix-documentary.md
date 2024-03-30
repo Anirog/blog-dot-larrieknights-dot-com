@@ -10,7 +10,7 @@ categories: [finance]
 1. Do I **need** it?
 2. Do I **love** it?
 3. Do I **like** it?
-4. Do I **want** it? 
+4. Do I **want** it?
 
 ## Need
 I must have this thing to maintain the health and safety of myself and my family.
@@ -38,6 +38,12 @@ Wants are just, there's no joy there, just temporary satisfaction.
 
 I want you to think of your needs and loves like a quadrant, so needs and loves are on this side and then likes and wants on this side so when you are focused on your needs and your loves you're really living in more of your life and when you're focused on your or likes and your wants, you're really living less of a life.
 
-![Likes, Wants, Needs and Loves](/images/likes-wants-needs-loves.png)
+## Living less of a life
+
+![Likes and Wants](/images/likes-wants.png)
+
+## Living in more of your life
+
+![](/images/needs-loves.png)
 
 [Check out “Get Smart With Money” on Netflix](https://www.netflix.com/us/title/81312877?s=i&trkid=260453186&vlang=en&clip=81616644)
