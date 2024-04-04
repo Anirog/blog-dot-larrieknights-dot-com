@@ -5,4 +5,4 @@ date: 2024-04-04
 categories: [photography]
 ---
 
-![Alt Text](/images/dog-in-garden.jpg)
+![Dog in the Garden](/images/dog-in-garden.jpg)
