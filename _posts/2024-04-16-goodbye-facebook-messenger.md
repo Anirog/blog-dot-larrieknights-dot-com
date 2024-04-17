@@ -2,7 +2,7 @@
 layout: post
 title: Goodbye Facebook Messenger
 date: 2024-04-16
-categories: [technology]
+categories: [tech]
 ---
 
 ![Facebook Messenger icon and a hand waving](/images/facebook-messenger-goodbye.png)
