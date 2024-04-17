@@ -7,8 +7,6 @@ categories: [tech]
 
 ![Facebook Messenger icon and a hand waving](/images/facebook-messenger-goodbye.png)
 
-I've been having ongoing problems with Facebook Messenger, it started after the latest update that included the new end-to-end encryption. 
+My frustrations with Facebook Messenger began with its latest update introducing end-to-end encryption. While I value the added security, the problem arose when it became apparent that if any of my contacts hadn't updated the app, I wouldn't see their messages and they wouldn't see mine.
 
-Now I'm all for end-to-end encryption, but the issue with how Facebook has rolled this out is that if any of your contacts haven't updated the app, you won't see their message and they won't see yours.
-
-To me, this is a terrible way to roll out a new feature, so I uninstalled Messenger on all my devices and haven't missed it so far.
+I appreciate the intention behind this new feature, but the execution seems flawed. It's disheartening to think that a simple app update could sever communication with friends. In response, I've removed Messenger from all my devices. Surprisingly, I haven't found myself missing it.
