@@ -5,7 +5,7 @@ date: 2024-05-25
 categories: [books]
 ---
 
-I was inspired by the first paragraph of Being There by Jerzy Kosinski
+I was inspired from the first paragraph of reading the book Being There by Jerzy Kosinski.
 
 > Plants were like people, they needed care to live, to survive their diseases, and to die peacefully.
 >
