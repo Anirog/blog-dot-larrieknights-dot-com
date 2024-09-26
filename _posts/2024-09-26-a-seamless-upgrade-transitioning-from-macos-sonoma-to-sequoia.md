@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Seamless Upgrade: Transitioning from macOS Sonoma to Sequoia
+title: A Seamless Upgrade Transitioning from macOS Sonoma to Sequoia
 date: 2024-09-26
 categories: [macos]
 ---
