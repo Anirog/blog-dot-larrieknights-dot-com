@@ -2,4 +2,4 @@
 title: Welcome
 ---
 
-👋 Hello, I'm Larrie. Hay fever sufferer and geek, I like making websites, playing guitar, reading and coffee.
+👋 Hi, I'm Larrie. I help people identify what they do most of best, and find fewer ways of doing more of it less.
